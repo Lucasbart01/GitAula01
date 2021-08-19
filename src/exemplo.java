@@ -2,7 +2,10 @@
 public class exemplo {
 	public static void main(String args[]) {
 		
-		System.out.print("Hello world!");
+		int num1=2, num2=4;
+		int total = num1 + num2;
+		
+		System.out.print("valor total"+total);
 	}
 
 }
